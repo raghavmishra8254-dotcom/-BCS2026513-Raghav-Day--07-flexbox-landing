@@ -32,3 +32,11 @@ Learning CSS Flexbox, alignment, spacing and responsive web design.
 
 ## © 2026
 Created by Raghav Mishra.
+
+
+## 📸 Website Screenshot
+
+![Flexbox Landing Page](images/day07.png)
+
+---
+Made with ❤️ by Raghav Mishra
