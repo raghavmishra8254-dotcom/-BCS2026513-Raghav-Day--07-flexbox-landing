@@ -52,7 +52,7 @@ Made with ❤️ by Raghav Mishra
 
 ## 📸 Features Page
 
-![Flexbox Landing Page](images/day07.png)
+![Flexbox Landing Page](IMG_20261111_215747.jpg)
 
 ---
 Made with ❤️ by Raghav Mishra
