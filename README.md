@@ -34,9 +34,28 @@ Learning CSS Flexbox, alignment, spacing and responsive web design.
 Created by Raghav Mishra.
 
 
-## 📸 Website Screenshot
+## 📸  Home Page
 
 ![Flexbox Landing Page](images/day07.png)
 
 ---
 Made with ❤️ by Raghav Mishra
+
+
+## 📸 About Page
+
+![Flexbox Landing Page](images/day07.png)
+
+---
+Made with ❤️ by Raghav Mishra
+
+
+## 📸 Features Page
+
+![Flexbox Landing Page](images/day07.png)
+
+---
+Made with ❤️ by Raghav Mishra
+
+
+
