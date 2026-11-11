@@ -36,10 +36,9 @@ Created by Raghav Mishra.
 
 ## 📸  Home Page
 
-![Flexbox Landing Page](images/day07.png)
+![Flexbox Landing Page](IMG_20261111_215757.jpg)
 
 ---
-Made with ❤️ by Raghav Mishra
 
 
 ## 📸 About Page
@@ -47,7 +46,6 @@ Made with ❤️ by Raghav Mishra
 ![Flexbox Landing Page](IMG_20261111_215737.jpg)
 
 ---
-Made with ❤️ by Raghav Mishra
 
 
 ## 📸 Features Page
